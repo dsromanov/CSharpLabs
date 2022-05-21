@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp\\lab1csharp\\lab1csharp\\lab1csharp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp\\csharplabs\\lab1csharp\\lab1csharp\\lab1csharp.csproj",
       "projectName": "lab1csharp",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp\\lab1csharp\\lab1csharp\\lab1csharp.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp\\csharplabs\\lab1csharp\\lab1csharp\\lab1csharp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp\\lab1csharp\\lab1csharp\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp\\csharplabs\\lab1csharp\\lab1csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

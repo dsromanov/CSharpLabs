@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3sharp", "lab3sharp\lab3sharp.csproj", "{F2DA2D01-210C-4595-AD14-71CD63E60810}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab1csharp", "..\lab1csharp\lab1csharp\lab1csharp.csproj", "{90F00494-66E8-4836-BE33-A27546249F6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab1csharp", "lab1csharp\lab1csharp\lab1csharp.csproj", "{90F00494-66E8-4836-BE33-A27546249F6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2sharp", "..\lab2sharp\lab2sharp\lab2sharp.csproj", "{753F4C60-4CFD-472B-8A3B-1170C5E50107}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2sharp", "lab2sharp\lab2sharp\view\lab2sharp.csproj", "{753F4C60-4CFD-472B-8A3B-1170C5E50107}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lab1csharp", "lab1csharp", "{7B8E8549-503B-4B97-8697-FCD6424959AC}"
 EndProject
