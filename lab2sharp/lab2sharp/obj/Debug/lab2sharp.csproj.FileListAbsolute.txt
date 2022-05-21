@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\bin\Debug\lab2sharp.exe.config
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\bin\Debug\lab2sharp.exe
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\bin\Debug\lab2sharp.pdb
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.Form1.resources
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.Properties.Resources.resources
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.exe
+C:\Users\User\source\repos\CSharp\lab2sharp\lab2sharp\obj\Debug\lab2sharp.pdb
