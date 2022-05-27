@@ -15,55 +15,90 @@ namespace lab3sharp
         public Form1()
         {
             InitializeComponent();
-            label2.Visible = false;
-            label3.Visible = false;
-            textBox1.Visible = false;
-            label4.Visible = false;
-            textBox2.Visible = false;
-            label5.Visible = false;
-            textBox3.Visible = false;
-            label6.Visible = false;
-            checkBox3.Visible = false;
-            textBox5.Visible = false;
-            label7.Visible = false;
-            textBox6.Visible = false;
         }
         List<Figure> figures = new List<Figure>();
+        Rhomb rhomb = new Rhomb(2, 4, 4, "black", 10, 60);
+        string color="";
+        public void output()
+        {
+            listBox1.Items.Clear();
+            foreach (Rhomb rhomb in figures)
+            {
+                listBox1.Items.Add("Ромб " + rhomb.nPlane + " " + rhomb.angles + " " + rhomb.sides + " " + rhomb.color + " " + rhomb.sideLength + " " + rhomb.closeAngle);
+            }
+
+        }
         private void button1_Click(object sender, EventArgs e)
         {
-            if (checkBox1.Checked)
+            figures.Add(new Rhomb(2, 4, 4, color, Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text)));
+            rhomb = new Rhomb(2, 4, 4, color, Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
+            output();
+            color = "";
+        }
+
+
+       
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            rhomb.draw();
+            MessageBox.Show("Вы нарисовали фигуру");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            rhomb.erase();
+            MessageBox.Show("Вы стерли фигуру");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (figures.Count > 0)
             {
-                label2.Visible = true;
-                label3.Visible = true;
-                textBox1.Visible = true;
-                label4.Visible = true;
-                textBox2.Visible = true;
-                label5.Visible = true;
-                textBox3.Visible = true;
-                label6.Visible = true;
-                checkBox3.Visible = true;
-                textBox5.Visible = true;
-                label7.Visible = true;
-                textBox6.Visible = true;
-                if (checkBox3.Checked)
-                {
-                    figures.Add(new Figure)
-                }
+                figures.RemoveAt(listBox1.SelectedIndex);
+                output();
+            }
+            else
+            {
+                MessageBox.Show("Добавьте хотя бы 1 элемент");
             }
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e)
         {
-            if (checkBox1.Checked)
-                checkBox2.CheckState = CheckState.Unchecked;
-            
+            if (colorDialog1.ShowDialog() == DialogResult.OK)
+            {
+                color = colorDialog1.Color.ToString();
+            }
         }
 
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        private void button7_Click(object sender, EventArgs e)
         {
-            if (checkBox2.Checked)
-                checkBox1.CheckState = CheckState.Unchecked;
+            rhomb.P();
+        }
 
+        private void button8_Click(object sender, EventArgs e)
+        {
+            rhomb.S();
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            if (colorDialog2.ShowDialog() == DialogResult.OK)
+            {
+                color = colorDialog2.Color.ToString();
+            }
+            rhomb.changeColor(color);
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            rhomb.draw();
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            rhomb.erase();
         }
     }
 }

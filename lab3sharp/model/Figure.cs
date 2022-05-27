@@ -28,13 +28,7 @@ namespace lab3sharp
         }
         public void draw()
         {
-            if ((angles == sides && sides!=2) || (sides==1 && angles==0) || (sides==2 && angles==1))//проверка на фигуру: фигура угол или точка прямая
-            {
                 MessageBox.Show("Вы нарисовали фигуру!");
-            }else
-            {
-                MessageBox.Show("Это не фигура!");
-            }
         }
         public void erase()
         {
@@ -62,7 +56,7 @@ namespace lab3sharp
         }
         public void S()
         {
-            MessageBox.Show("Площадь: " + Math.Pow(sideLength,2)*Math.Sin(closeAngle));
+            MessageBox.Show("Площадь: " + Math.Round(Math.Pow(sideLength,2)*Math.Sin((closeAngle/180D)*Math.PI),2));
         }
     } 
 }
