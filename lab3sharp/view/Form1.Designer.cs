@@ -107,9 +107,9 @@ namespace lab3sharp
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(16, 277);
+            this.button2.Location = new System.Drawing.Point(2, 277);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(122, 68);
+            this.button2.Size = new System.Drawing.Size(138, 68);
             this.button2.TabIndex = 17;
             this.button2.Text = "Нарисовать фигуру";
             this.button2.UseVisualStyleBackColor = true;
@@ -118,9 +118,9 @@ namespace lab3sharp
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button3.Location = new System.Drawing.Point(16, 351);
+            this.button3.Location = new System.Drawing.Point(2, 351);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(122, 68);
+            this.button3.Size = new System.Drawing.Size(136, 68);
             this.button3.TabIndex = 18;
             this.button3.Text = "Стереть фигуру";
             this.button3.UseVisualStyleBackColor = true;
@@ -129,7 +129,7 @@ namespace lab3sharp
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button4.Location = new System.Drawing.Point(144, 277);
+            this.button4.Location = new System.Drawing.Point(146, 277);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(111, 68);
             this.button4.TabIndex = 19;
