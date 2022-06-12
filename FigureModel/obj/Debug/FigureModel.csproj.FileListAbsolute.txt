@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CSharp\csharplabs\FigureModel\bin\Debug\FigureModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\FigureModel\bin\Debug\FigureModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\FigureModel\obj\Debug\FigureModel.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\csharplabs\FigureModel\obj\Debug\FigureModel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\FigureModel\obj\Debug\FigureModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\FigureModel\obj\Debug\FigureModel.pdb

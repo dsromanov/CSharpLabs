@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\bin\Debug\FigureView.exe.config
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\bin\Debug\FigureView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\bin\Debug\FigureView.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\bin\Debug\FigureModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\bin\Debug\FigureModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\lab3sharp.Form1.resources
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.Properties.Resources.resources
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.csproj.CopyComplete
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\FigureView\obj\Debug\FigureView.pdb

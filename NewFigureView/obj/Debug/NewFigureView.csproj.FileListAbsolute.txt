@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\bin\Debug\NewFigureView.exe.config
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\bin\Debug\NewFigureView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\bin\Debug\NewFigureView.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\lab4csharp.Read.resources
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\lab4csharp.Main.resources
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.Properties.Resources.resources
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\bin\Debug\NewFigureModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\bin\Debug\NewFigureModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\csharplabs\NewFigureView\obj\Debug\NewFigureView.csproj.CopyComplete

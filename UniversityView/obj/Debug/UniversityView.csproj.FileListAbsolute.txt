@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\UniversityView.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\UniversityView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\UniversityView.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\lab2sharp.Form1.resources
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\bin\Debug\UniversityView.exe.config
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\bin\Debug\UniversityView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\bin\Debug\UniversityView.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\bin\Debug\UniversityModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\bin\Debug\UniversityModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\UniversityView.csproj.CopyComplete
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\UniversityView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityView\obj\Debug\UniversityView.pdb

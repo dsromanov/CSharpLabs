@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityModel\bin\Debug\UniversityModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityModel\bin\Debug\UniversityModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityModel\obj\Debug\UniversityModel.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityModel\obj\Debug\UniversityModel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityModel\obj\Debug\UniversityModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\UniversityModel\obj\Debug\UniversityModel.pdb
