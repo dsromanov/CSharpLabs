@@ -3,3 +3,4 @@ C:\Users\User\source\repos\CSharp\csharplabs\GiftModel\bin\Debug\GiftModel.pdb
 C:\Users\User\source\repos\CSharp\csharplabs\GiftModel\obj\Debug\GiftModel.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\CSharp\csharplabs\GiftModel\obj\Debug\GiftModel.dll
 C:\Users\User\source\repos\CSharp\csharplabs\GiftModel\obj\Debug\GiftModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\GiftModel\obj\Debug\GiftModel.csprojAssemblyReference.cache

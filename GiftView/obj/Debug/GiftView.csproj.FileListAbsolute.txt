@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\bin\Debug\GiftView.exe.config
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\bin\Debug\GiftView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\bin\Debug\GiftView.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\bin\Debug\GiftModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\bin\Debug\GiftModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.Form1.resources
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.Properties.Resources.resources
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.csproj.CopyComplete
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\GiftView\obj\Debug\GiftView.pdb
