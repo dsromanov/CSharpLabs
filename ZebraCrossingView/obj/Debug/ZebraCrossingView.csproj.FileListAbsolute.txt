@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\Laba_5.UI.FormMain.resources
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.ImageResourse.resources
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.Properties.Resources.resources
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\bin\Debug\ZebraCrossingView.exe.config
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\bin\Debug\ZebraCrossingView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\bin\Debug\ZebraCrossingView.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\bin\Debug\ZebraCrossingModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\bin\Debug\ZebraCrossingModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.csproj.CopyComplete
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.exe
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingView\obj\Debug\ZebraCrossingView.pdb

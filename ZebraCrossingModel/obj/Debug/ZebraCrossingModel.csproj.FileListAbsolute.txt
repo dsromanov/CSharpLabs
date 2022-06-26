@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingModel\obj\Debug\ZebraCrossingModel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingModel\bin\Debug\ZebraCrossingModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingModel\bin\Debug\ZebraCrossingModel.pdb
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingModel\obj\Debug\ZebraCrossingModel.dll
+C:\Users\User\source\repos\CSharp\csharplabs\ZebraCrossingModel\obj\Debug\ZebraCrossingModel.pdb
